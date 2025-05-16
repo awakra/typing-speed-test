@@ -68,11 +68,11 @@ words_alpha.txt – Word list used for prompts
 
 ## Customization
 
-### 🔧 Change the timer duration:
+### Change the timer duration:
 
 Edit the `duration` parameter in `timer.py` or where the `Timer` is instantiated in `gui.py`.
 
-### 📚 Use your own word list:
+### Use your own word list:
 
 Replace `words_alpha.txt` with your preferred list of words (one word per line).
 
